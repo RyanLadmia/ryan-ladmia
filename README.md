@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hello there, I'm Ryan Ladmia, 29 years old</h1>
 <h3 align="center">Full Stack Web & Mobile Developer from Marseille, France</h3>
-<p align="center">I'm currently looking for a <strong>work-study position starting in November 2025</strong> as part of a CDA (Application Developer Designer) training program.</p>
+<p align="center">I'm currently looking for a <strong>24 month work-study position starting in September 2026</strong> as part of a Master's degree in Web Développement, where I can apply my skills and contribute to real-world projects.</p>
 
 ---
 
